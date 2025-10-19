@@ -38,7 +38,7 @@
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Olliver-0&show_icons=true&theme=tokyonight&hide_border=true">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olliver-0&theme=tokyonight&layout=donut&hide_border=true">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Olliver-0&theme=tokyonight&hide_border=true">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Olliver-0&hide_current_streak=true&hide_longest_streak=true&theme=tokyonight&hide_border=true">
 </div>
 
 ## 📨Contacts
